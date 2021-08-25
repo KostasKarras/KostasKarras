@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 - - -
 ### My name is Konstantinos Karras and I am an Undergraduate Student at AUEB (Athens University of Economics and Business), department of Informatics. [Here](https://www.linkedin.com/in/konstantinos-karras-3a420820a/) is my LinkedIn profile.
 - - -
